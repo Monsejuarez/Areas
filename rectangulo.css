@@ -1,0 +1,25 @@
+body{
+
+    background-color: rgb(255, 195, 242);
+    
+    }
+    
+    p{
+    
+        color: rgb(0, 0, 0);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 45px;
+    }
+    
+    #circulo{
+        
+        color: rgb(0, 0, 0);
+    }
+
+    #titulo{
+        
+        text-align: center;
+        font-weight: bold;
+        font-size: 60px;
+        
+    }
